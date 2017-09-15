@@ -1,0 +1,29 @@
+{
+  "name": "touchbarpicker",
+  "version": "1.0.0",
+  "description": "A TouchBar colorpicker version",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "build": "build --config colorpicker-build.json"
+  },
+  "repository": "https://github.com/toinane/touchbarpicker",
+  "keywords": [
+    "Colorpicker",
+    "TouchBar",
+    "touch",
+    "bar",
+    "color",
+    "colors"
+  ],
+  "author": "Toinane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Toinane/touchbarpicker/issues"
+  },
+  "homepage": "https://github.com/Toinane/touchbarpicker#readme",
+  "dependencies": {
+    "electron": "^1.7.6",
+    "electron-builder": "^19.27.7"
+  }
+}
