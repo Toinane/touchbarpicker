@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron main.js",
-    "build": "build --config colorpicker-build.json"
+    "build": "build --config touchbarpicker-build.json"
   },
   "repository": "https://github.com/toinane/touchbarpicker",
   "keywords": [
@@ -22,7 +22,7 @@
     "url": "https://github.com/Toinane/touchbarpicker/issues"
   },
   "homepage": "https://github.com/Toinane/touchbarpicker#readme",
-  "dependencies": {
+  "devDependencies": {
     "electron": "^1.7.6",
     "electron-builder": "^19.27.7"
   }
