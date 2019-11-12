@@ -1,6 +1,6 @@
 {
   "name": "touchbarpicker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A TouchBar colorpicker version",
   "main": "main.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Toinane/touchbarpicker#readme",
   "devDependencies": {
-    "electron": "^1.7.11",
-    "electron-builder": "^19.27.7"
+    "electron": "^7.1.1",
+    "electron-builder": "^22.1.0"
   }
 }
